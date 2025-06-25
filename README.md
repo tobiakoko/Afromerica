@@ -72,7 +72,7 @@ _Brand showcase, Talent Platform, E-Commerce, Multimedia Hub_
     - Email, phone, social handles
     - Newsletter signup  
 ---
-## INTEGRATIONS
+## FEATURES & FUNCTIONALITY
 | Feature | Details |
 | :-----------: | :-----------: |
 | Mobile Responsiveness | Optimized for phones, tablets and desktop |
